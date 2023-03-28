@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\EightQueen\EightQueen\bin\Debug\net6.0\EightQueen.exe
+C:\Users\user\source\repos\EightQueen\EightQueen\bin\Debug\net6.0\EightQueen.deps.json
+C:\Users\user\source\repos\EightQueen\EightQueen\bin\Debug\net6.0\EightQueen.runtimeconfig.json
+C:\Users\user\source\repos\EightQueen\EightQueen\bin\Debug\net6.0\EightQueen.dll
+C:\Users\user\source\repos\EightQueen\EightQueen\bin\Debug\net6.0\EightQueen.pdb
+C:\Users\user\source\repos\EightQueen\EightQueen\obj\Debug\net6.0\EightQueen.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\EightQueen\EightQueen\obj\Debug\net6.0\EightQueen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\EightQueen\EightQueen\obj\Debug\net6.0\EightQueen.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\EightQueen\EightQueen\obj\Debug\net6.0\EightQueen.AssemblyInfo.cs
+C:\Users\user\source\repos\EightQueen\EightQueen\obj\Debug\net6.0\EightQueen.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\EightQueen\EightQueen\obj\Debug\net6.0\EightQueen.dll
+C:\Users\user\source\repos\EightQueen\EightQueen\obj\Debug\net6.0\refint\EightQueen.dll
+C:\Users\user\source\repos\EightQueen\EightQueen\obj\Debug\net6.0\EightQueen.pdb
+C:\Users\user\source\repos\EightQueen\EightQueen\obj\Debug\net6.0\EightQueen.genruntimeconfig.cache
+C:\Users\user\source\repos\EightQueen\EightQueen\obj\Debug\net6.0\ref\EightQueen.dll
